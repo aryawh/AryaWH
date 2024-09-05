@@ -1,14 +1,10 @@
-# Halo semua! 
+# Hi there! 👋 I'm **Arya Widya Hastungkoro**
 
-Perkenalkan nama saya **Arya Widya Hastungkoro**.
+I'm a passionate **Backend Developer**. I take pride in crafting efficient and scalable backend solutions that drive seamless user experiences.
 
-Saya seorang **Machine Learning Engineer** di [Dicoding](https://www.dicoding.com/).
+I recently graduated with a degree in **Informatics Engineering** from **Institut Teknologi Telkom Purwokerto**, and I’m currently diving deeper into the world of backend development, with a special focus on **Java Spring Boot**.
 
-Saya bertanggung jawab pada kualitas materi Web dengan dibekali [sertifikasi dari IT Telkom Purwokerto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\
-
-Saya juga memiliki gelar [Tensorflow Developer Certification](https://www.credential.net/h5deoi5h) sejak 2023.\
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/arya-wh/)ku ya.
+I’m always open to new challenges and opportunities to grow, so feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arya-wh/).
 
 <p align="left">
 <a href="https://github.com/aryawh">
